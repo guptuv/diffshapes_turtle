@@ -44,3 +44,8 @@ Output for n==9
 ie 9 images
 ![image](https://github.com/guptuv/diffshapes_turtle/assets/116263507/95cc3142-9ba2-461e-a474-1a666fe5c5e8)
 
+
+
+Output for n=9 but turn.left() is used 
+![image](https://github.com/guptuv/diffshapes_turtle/assets/116263507/bebf1b4f-ab74-49df-8ab2-eb47a400b0ac)
+
