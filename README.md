@@ -35,3 +35,12 @@ tim.forward(40) and tim.right(theta) (commented out): Likely intended to draw ad
 Screen Exit:
 
 screen.exitonclick(): Keeps the screen open until the user clicks to close it.
+
+
+
+
+
+Output for n==9 
+ie 9 images
+![image](https://github.com/guptuv/diffshapes_turtle/assets/116263507/95cc3142-9ba2-461e-a474-1a666fe5c5e8)
+
