@@ -50,6 +50,15 @@ for i in range(3,9):
 # tim.right(theta)
 
 
+
+
+for steps in range(100):
+    for c in ('blue', 'red', 'green'):
+        tim.color(c)
+        tim.forward(steps)
+        tim.right(30)
+
+
 screen.exitonclick()
 
 
