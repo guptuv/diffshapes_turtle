@@ -50,3 +50,7 @@ Output for n=9 but turn.left() is used
 
 Output for a spiral like structure
 ![image](https://github.com/guptuv/diffshapes_turtle/assets/116263507/b083409d-6403-4fbb-a0f7-162b07b03503)
+
+Analysis output for change colors and fastest speed
+![image](https://github.com/guptuv/diffshapes_turtle/assets/116263507/0803b580-e562-4e77-a5a2-be0a1d560442)
+
